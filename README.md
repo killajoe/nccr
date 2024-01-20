@@ -1,0 +1,2 @@
+# nccr
+NCurses Cash Register 
